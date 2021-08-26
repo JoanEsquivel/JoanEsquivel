@@ -11,6 +11,12 @@ Programming Languages  :rocket:
 |<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/java.png" width=60>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png" width=60>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width=60>|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
+🤖 My Test Automation Projects
+- [cypress-demo-framework](https://github.com/JoanEsquivel/cypress-demo-framework#cypress-demo-framework) - Project where I cover the basic concepts of Cypress IO & integrate different technologies like docker, browserstack, mochawesome reports, and so on.
+
+📝 Language Reviews
+- [typescript-basics](https://github.com/JoanEsquivel/typescript-basics) - Project where I cover the basic concepts of Typescript.
+
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
 
