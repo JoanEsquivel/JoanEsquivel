@@ -13,9 +13,16 @@ Programming Languages  :rocket:
 
 🤖 My Test Automation Projects
 - [cypress-demo-framework](https://github.com/JoanEsquivel/cypress-demo-framework#cypress-demo-framework) - Project where I cover the basic concepts of Cypress IO & integrate different technologies like docker, browserstack, mochawesome reports, and so on.
+- [selenium-java-maven](https://github.com/JoanEsquivel/selenium-advanced-framework) - Project with Selenium, TestNG, Maven, Listener, Parallelism(Thread Safe), Extent Reports.
+- [selenium-java-gradle](https://github.com/JoanEsquivel/selenium-gradle) - Gradle Project. Want to try Selenium 4 & TestNg.
+- [Postman-Collection-Demo](https://github.com/JoanEsquivel/postman-demo) - Postman collections, variables, authentication, and testing.
 
 📝 Language Reviews
 - [typescript-basics](https://github.com/JoanEsquivel/typescript-basics) - Project where I cover the basic concepts of Typescript.
+
+📝 Other Projects
+- [vue-basics](https://github.com/JoanEsquivel/typescript-basics) - Vue 3 Review: Methods, computed properties, components, assets, directives, etc.
+- [vue-calendar](https://github.com/JoanEsquivel/typescript-basics) - Vue 3 Calendar
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
