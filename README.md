@@ -21,8 +21,8 @@ Programming Languages  :rocket:
 - [typescript-basics](https://github.com/JoanEsquivel/typescript-basics) - Project where I cover the basic concepts of Typescript.
 
 📝 Other Projects
-- [vue-basics](https://github.com/JoanEsquivel/typescript-basics) - Vue 3 Review: Methods, computed properties, components, assets, directives, etc.
-- [vue-calendar](https://github.com/JoanEsquivel/typescript-basics) - Vue 3 Calendar
+- [vue-basics](https://github.com/JoanEsquivel/vue-basics) - Vue 3 Review: Methods, computed properties, components, assets, directives, etc.
+- [vue-calendar](https://github.com/JoanEsquivel/vue-calendar) - Vue 3 Calendar
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
