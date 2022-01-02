@@ -17,6 +17,8 @@ Programming Languages  :rocket:
 - [selenium-java-maven](https://github.com/JoanEsquivel/selenium-advanced-framework) - Project with Selenium, TestNG, Maven, Listener, Parallelism(Thread Safe), Extent Reports.
 - [selenium-java-gradle](https://github.com/JoanEsquivel/selenium-gradle) - Gradle Project. Want to try Selenium 4 & TestNg.
 - [Postman-Collection-Demo](https://github.com/JoanEsquivel/postman-demo) - Postman collections, variables, authentication, and testing.
+- [Webdriver.io Framework with Javascript](https://github.com/JoanEsquivel/webdriverio-js-demo-framework) - Webdriverio config file, page object model, allure reporter, selenium standalone service, etc.
+- [Webdriver.io Framework with Typescript](https://github.com/JoanEsquivel/webdriverio-ts-demo-framework) - Webdriverio config file, page object model, allure reporter, selenium standalone service, etc.
 
 📝 Language Reviews
 - [typescript-basics](https://github.com/JoanEsquivel/typescript-basics) - Project where I cover the basic concepts of Typescript.
