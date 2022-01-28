@@ -21,7 +21,9 @@ Programming Languages  :rocket:
 - [Webdriver.io Framework with Typescript](https://github.com/JoanEsquivel/webdriverio-ts-demo-framework) - Webdriverio config file, page object model, allure reporter, selenium standalone service, etc.
 
 📝 Language Reviews
+- [javascript-basics](https://github.com/JoanEsquivel/JavascriptBasics) - Project where I cover the basic concepts of Javascript
 - [typescript-basics](https://github.com/JoanEsquivel/typescript-basics) - Project where I cover the basic concepts of Typescript.
+- [Java-basics](https://github.com/JoanEsquivel/JavaBasicsPOO) - Project where I cover the basic concepts of Java.
 
 📝 Other Projects
 - [vue-basics](https://github.com/JoanEsquivel/vue-basics) - Vue 3 Review: Methods, computed properties, components, assets, directives, etc.
