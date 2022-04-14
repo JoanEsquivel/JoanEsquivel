@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/source.gif" width="100px">
   </a>
 </h1>
-<p>I work as <strong>Test Engineer Specialist</strong>.<br/>Focused on Test and Process Automation<br> Love to share knowledge with peers and learn something new every day.<br></p><br/>
+<p>I work as <strong>Quality Assurance Automation Specialist</strong>.<br/>Focused on Test and Process Automation<br> Love to share knowledge with peers and learn something new every day.<br></p><br/>
 💻 My Tech Stack
 
 Programming Languages  :rocket:
