@@ -24,6 +24,7 @@ Programming Languages  :rocket:
 - [javascript-basics](https://github.com/JoanEsquivel/JavascriptBasics) - Project where I cover the basic concepts of Javascript
 - [typescript-basics](https://github.com/JoanEsquivel/typescript-basics) - Project where I cover the basic concepts of Typescript.
 - [Java-basics](https://github.com/JoanEsquivel/JavaBasicsPOO) - Project where I cover the basic concepts of Java.
+- [Python-basics](https://github.com/JoanEsquivel/Python-Basics) - Project where I cover the basic concepts of Python.
 
 📝 Other Projects
 - [vue-basics](https://github.com/JoanEsquivel/vue-basics) - Vue 3 Review: Methods, computed properties, components, assets, directives, etc.
