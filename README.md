@@ -1,7 +1,7 @@
 <h1>
   <p align="center">Hi, I'm Joan Esquivel (JoanMedia)!
   <a href="https://www.youtube.com/c/joanmedia/">
-    <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/source.gif" width="100px">
+    <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/source.gif" width="50px" height="50px">
   </a>
 </h1>
 <p>I work as <strong>Quality Assurance Automation Specialist</strong>.<br/>Focused on Test and Process Automation<br> Love to share knowledge with peers and learn something new every day.<br></p><br/>
