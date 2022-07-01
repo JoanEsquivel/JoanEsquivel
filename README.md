@@ -19,6 +19,7 @@ Programming Languages  :rocket:
 - [Postman-Collection-Demo](https://github.com/JoanEsquivel/postman-demo) - Postman collections, variables, authentication, and testing.
 - [Webdriver.io Framework with Javascript](https://github.com/JoanEsquivel/webdriverio-js-demo-framework) - Webdriverio config file, page object model, allure reporter, selenium standalone service, etc.
 - [Webdriver.io Framework with Typescript](https://github.com/JoanEsquivel/webdriverio-ts-demo-framework) - Webdriverio config file, page object model, allure reporter, selenium standalone service, etc.
+- [Playwright Framework with Python](https://github.com/JoanEsquivel/playwright-python-test-framework) - Playwright with Async IO & Pytest.
 
 📝 Language Reviews
 - [javascript-basics](https://github.com/JoanEsquivel/JavascriptBasics) - Project where I cover the basic concepts of Javascript
