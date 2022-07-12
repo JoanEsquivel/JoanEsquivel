@@ -31,6 +31,7 @@ Programming Languages  :rocket:
 📝 Other Projects
 - [vue-basics](https://github.com/JoanEsquivel/vue-basics) - Vue 3 Review: Methods, computed properties, components, assets, directives, etc.
 - [vue-calendar](https://github.com/JoanEsquivel/vue-calendar) - Vue 3 Calendar
+- [vue-github-user-search-app](https://github.com/JoanEsquivel/search-user-github-app)
 - [PHP(MVC / WS) CRM](https://github.com/JoanEsquivel/ProyectoFullStack) - PHP with Smarty project where I learned how to create WebServices, use MVC, and manage the API requests using AJAX.
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
