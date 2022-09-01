@@ -28,12 +28,15 @@ Programming Languages  :rocket:
 - [Java-basics](https://github.com/JoanEsquivel/JavaBasicsPOO) - Project where I cover the basic concepts of Java.
 - [Python-basics](https://github.com/JoanEsquivel/Python-Basics) - Project where I cover the basic concepts of Python.
 
-📝 Other Projects
+📝 Front End + Backend Projects
 - [vue-basics](https://github.com/JoanEsquivel/vue-basics) - Vue 3 Review: Methods, computed properties, components, assets, directives, etc.
 - [vue-calendar](https://github.com/JoanEsquivel/vue-calendar) - Vue 3 Calendar
 - [vue-github-user-search-app](https://github.com/JoanEsquivel/search-user-github-app)
 - [PHP(MVC / WS) CRM](https://github.com/JoanEsquivel/ProyectoFullStack) - PHP with Smarty project where I learned how to create WebServices, use MVC, and manage the API requests using AJAX.
 - [School Software to manage students, teachers, vacations, payments, and send them by email on using VB.NET + SQL](https://github.com/JoanEsquivel/School_Manager_VB.NET_SQL)
+
+📝 Mobile Development
+- [Swift-basics](https://github.com/JoanEsquivel/swift-basics) - Variables, data types, conditional statements, loops, arrays, dictionaries, optionals, and objects.
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
