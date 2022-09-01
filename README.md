@@ -22,6 +22,13 @@ Programming Languages  :rocket:
 - [Webdriver.io Framework with Typescript](https://github.com/JoanEsquivel/webdriverio-ts-demo-framework) - Webdriverio config file, page object model, allure reporter, selenium standalone service, etc.
 - [Playwright Framework with Python](https://github.com/JoanEsquivel/playwright-python-test-framework) - Playwright with Async IO & Pytest.
 
+📝 My Udemy Courses
+- [Cypress-E2E-Testing](https://github.com/JoanEsquivel/cypress-course)- Cypress E2E Testing course using basic/understandable Javascript & Typescript code for beginners & pros, and a lot of integrations.
+- [Playwright]()
+- [WebDriver.IO + Appium]()
+- [Espresso]()
+- [XCTest]()
+
 📝 Language Reviews
 - [javascript-basics](https://github.com/JoanEsquivel/JavascriptBasics) - Project where I cover the basic concepts of Javascript
 - [typescript-basics](https://github.com/JoanEsquivel/typescript-basics) - Project where I cover the basic concepts of Typescript.
