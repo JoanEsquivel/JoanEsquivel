@@ -44,6 +44,8 @@ Programming Languages  :rocket:
 
 📝 Mobile Development
 - [Swift-basics](https://github.com/JoanEsquivel/swift-basics) - Variables, data types, conditional statements, loops, arrays, dictionaries, optionals, and objects.
+- [Couter-App-Android](https://github.com/JoanEsquivel/counter-app-android) - Simple android application that changes a text view adding the amount of times I click on a button.
+
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
