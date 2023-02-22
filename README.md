@@ -1,5 +1,5 @@
 <h1>
-  <p align="center">Hi, I'm Joan Esquivel (JoanMedia)!
+  <p align="center">Hi, I'm Joan Esquivel!
   <a href="https://www.youtube.com/c/joanmedia/">
     <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/source.gif" width="50px" height="50px">
   </a>
