@@ -19,12 +19,11 @@ Programming Languages  :rocket:
 - [Webdriver.io Framework with Typescript](https://github.com/JoanEsquivel/webdriverio-ts-demo-framework) - Webdriverio config file, page object model, allure reporter, selenium standalone service, etc.
 - [Playwright Framework with Python](https://github.com/JoanEsquivel/playwright-python-test-framework) - Playwright with Async IO & Pytest.
 - [Testcafe Framework](https://github.com/JoanEsquivel/testcafe-e2e-testing-boilerplate-project) - Project using TestCafe + Javascript to explain how the framework works and to serve as a template for others to start implementing tests.
-- [WebDriver.IO + Appium for Mobile Testing](https://github.com/JoanEsquivel/appium-demo) - Exploring the possibilities of testing an Androind, and an IOS mobile application. At least the basics, need to create more advanced examples for a future udemy course.
+- [WebDriver.IO + Appium](https://github.com/JoanEsquivel/appium-demo) - IOS & Android mobile testing integrated with Browserstack.
 
 📝 My Udemy Courses
 - [Cypress-E2E-Testing](https://github.com/JoanEsquivel/cypress-course)- Cypress E2E Testing course using basic/understandable Javascript & Typescript code for beginners & pros, and a lot of integrations.
-- [Playwright]()
-- [WebDriver.IO + Appium]()
+- [Playwright + Typescript](https://github.com/JoanEsquivel/playwright-udemy) - Full framework template using lint, prettier, commit hooks, and playwright + Typescript.
 - [Espresso]()
 - [XCTest]()
 
