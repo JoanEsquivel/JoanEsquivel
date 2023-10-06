@@ -14,6 +14,7 @@ Programming Languages  :rocket:
 - [cypress-cucumber-framework V10+](https://github.com/JoanEsquivel/cypress-cucumber-boilerplate) - This project is a code concept of using cypress and cucumber with page object model. You can clone it and start using it for your purposes.
 - [selenium-java-maven](https://github.com/JoanEsquivel/selenium-advanced-framework) - Project with Selenium, TestNG, Maven, Listener, Parallelism(Thread Safe), Extent Reports.
 - [selenium-java-gradle](https://github.com/JoanEsquivel/selenium-gradle) - Gradle Project. Want to try Selenium 4 & TestNg.
+- [python-se](https://github.com/JoanEsquivel/python-se) - Selenium + Pytest project with Github Actions integration.
 - [Postman-Collection-Demo](https://github.com/JoanEsquivel/postman-demo) - Postman collections, variables, authentication, and testing.
 - [Webdriver.io Framework with Javascript](https://github.com/JoanEsquivel/webdriverio-js-demo-framework) - Webdriverio config file, page object model, allure reporter, selenium standalone service, etc.
 - [Webdriver.io Framework with Typescript](https://github.com/JoanEsquivel/webdriverio-ts-demo-framework) - Webdriverio config file, page object model, allure reporter, selenium standalone service, etc.
